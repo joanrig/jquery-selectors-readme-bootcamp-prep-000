@@ -1,3 +1,4 @@
 function paragraphSelector() {
-  $('p')
+  var elements = document.querySelector('p.innerHTML')
+  return elements
 }
