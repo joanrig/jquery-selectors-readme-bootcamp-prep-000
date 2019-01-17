@@ -1,9 +1,8 @@
-// function paragraphSelector() {
-//   var content = document.querySelectorAll('p.innerHTML')
-//   return content
-// }
-
 
 function paragraphSelector() {
   return $('p')
+}
+
+function lastImageSelector() {
+  return $()
 }
