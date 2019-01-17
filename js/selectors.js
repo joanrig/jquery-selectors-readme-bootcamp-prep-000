@@ -1,3 +1,3 @@
 function paragraphSelector() {
-  document.
+  document.querySelector
 }
