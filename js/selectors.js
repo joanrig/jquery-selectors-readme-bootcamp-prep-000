@@ -1,3 +1,3 @@
 function paragraphSelector() {
-  document.querySelector('p.innerHTML')
+  document.querySelector.all('p.innerHTML')
 }
