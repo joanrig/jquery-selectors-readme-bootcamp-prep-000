@@ -1,3 +1,4 @@
 function paragraphSelector() {
-  document.querySelector
+  var elements = document.querySelector('p')
+  return elements
 }
