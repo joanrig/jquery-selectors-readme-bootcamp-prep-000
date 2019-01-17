@@ -1,4 +1,4 @@
 function paragraphSelector() {
-  var content = document.querySelector.all('p.innerHTML')
+  var content = document.querySelectorAll('p.innerHTML')
   return content
 }
